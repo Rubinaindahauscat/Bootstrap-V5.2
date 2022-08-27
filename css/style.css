@@ -1,0 +1,11 @@
+body {
+    position: relative;
+}
+
+.header {
+    background-image: url('../images/top-banner.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    position: relative;
+}
